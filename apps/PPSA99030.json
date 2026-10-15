@@ -1,0 +1,13 @@
+{
+  "titleid": "PPSA99030",
+  "name": "Forever Launcher",
+  "kind": "app",
+  "description": "Battle.net launcher designed for World of Warcraft: Forever; other games may install, but keyboard support is in development.",
+  "license": "GPL-3.0",
+  "author": "bizkut",
+  "version": "01.000.002",
+  "source_repo": "https://github.com/bizkut/ps5-forever",
+  "artifact_url": "https://github.com/bizkut/ps5-forever/releases/download/01.000.002/PPSA99030.zip",
+  "sha256": "1ea79bb22a5bb7dcd953a752587088db51542519bef0b920bc1846603ce17d76",
+  "icon_url": "https://raw.githubusercontent.com/bizkut/ps5-forever/01.000.002/ps5/title/sce_sys/icon0.png"
+}
