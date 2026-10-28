@@ -1,0 +1,14 @@
+{
+  "titleid": "PPSA90213",
+  "name": "The Legend of Zelda: Tears of the Kingdom",
+  "kind": "game",
+  "category": "homebrew-games",
+  "description": "Native PS5 port of UltraTears, the Tears of the Kingdom recompilation: up to 120 fps with frame generation, HDR10, VRR and FSR upscaling to 4K. Uses your own copy of the game.",
+  "license": null,
+  "author": "bizkut",
+  "version": null,
+  "source_repo": null,
+  "artifact_url": null,
+  "sha256": null,
+  "icon_url": null
+}
