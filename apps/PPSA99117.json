@@ -1,6 +1,6 @@
 {
   "titleid": "PPSA99117",
-  "name": "OpenCE",
+  "name": "Halo: Combat Evolved (OpenCE)",
   "kind": "game",
   "category": "console-ports",
   "description": "Native PS5 port of OpenCE (Halo: Combat Evolved): 4K at 120 fps with VRR, online and LAN multiplayer, voice chat. Needs your own Xbox disc image.",
@@ -9,6 +9,6 @@
   "version": "01.000.000",
   "source_repo": "https://github.com/bizkut/ps5-OpenCE",
   "artifact_url": "https://github.com/bizkut/ps5-OpenCE/releases/download/01.000.000/OpenCE-PS5-01.000.000.zip",
-  "sha256": "fc676044f541d6cb93915bd583125411a0e123222545b01157b6aa3418f41e1c",
+  "sha256": "84757b21b5ac1f8fcf84152e267ffd5aa78e4df0b2563d0ab84233ebdd421625",
   "icon_url": "https://raw.githubusercontent.com/bizkut/ps5-OpenCE/01.000.000/port/ps5/sce_sys/icon0.png"
 }
