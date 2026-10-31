@@ -3,7 +3,7 @@
   "name": "Halo: Combat Evolved (OpenCE)",
   "kind": "game",
   "category": "console-ports",
-  "description": "Native PS5 port of OpenCE (Halo: Combat Evolved): 4K at 120 fps with VRR, online and LAN multiplayer, voice chat. Needs your own Xbox disc image.",
+  "description": "Native PS5 port of OpenCE (Halo: Combat Evolved): 4K at 120 fps with VRR, online and LAN multiplayer with voice chat, split-screen couch co-op. Needs your own Xbox disc image.",
   "license": "AGPL-3.0",
   "author": "bizkut",
   "version": "01.000.000",
